@@ -1,0 +1,30 @@
+{
+  "name": "TransportesEsmeralda",
+  "version": "1.0.0",
+  "description": "Primer desarrollo en angular 5",
+  "main": "index.js",
+  "scripts": {
+    "start":"node src/index.js"
+    ,"dev":"nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdearGt/ERP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IdearGt/ERP/issues"
+  },
+  "homepage": "https://github.com/IdearGt/ERP#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongojs": "^2.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  }
+}
